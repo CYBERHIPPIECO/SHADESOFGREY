@@ -2,6 +2,7 @@
 
 <a name="intro"></a>
 # SHADES OF GREY - Interactive Fiction
+
 1 wstep
 
 2 urywki wspomnien
